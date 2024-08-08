@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report to help us make Nusantara Adventures better!
 title: "[BUG]"
-labels: bug
+labels: bug, feature request
 assignees: skoolknot
 
 ---
